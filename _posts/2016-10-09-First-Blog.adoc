@@ -1,5 +1,5 @@
 = First Blog
 
-This is first demo blog created with love from from hubpress.io and hosted on github ! 
+This is first demo blog created with <3 from from hubpress.io and hosted on github ! 
 
-Cool stuff!
+Hot stuff with cool technologies!
