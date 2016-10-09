@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "abhijitmamarde",
-    "repositoryName": "hubpress.io",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "ghostium"
-  }
-}
+{"meta":{"username":"abhijitmamarde","repositoryName":"hubpress.io","branch":"gh-pages"},"site":{"title":"Abhijit Mamarde","description":"","postsPerPage":"5","url":"https://abhijitmamarde.github.io/hubpress.io"},"socialnetwork":{},"theme":{"name":"ghostium","url":"//abhijitmamarde.github.io/hubpress.io/themes/ghostium"}}
